@@ -2,7 +2,7 @@
 
 Tmpl是一个前端模板引擎，但不仅仅如此。
 
-* 版本：1.0
+* 版本：1.0.1
 * 作者：yujiang
 * demo：[http://gallery.kissyui.com/tmpl/1.0/demo/index.html](http://gallery.kissyui.com/tmpl/1.0/demo/index.html)
 
