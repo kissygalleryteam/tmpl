@@ -3,8 +3,8 @@
 Tmpl是一个前端模板引擎，但不仅仅如此。
 
 * 版本：1.0.1
-* 作者：yujiang
-* demo：[http://gallery.kissyui.com/tmpl/1.0.1/demo/index.html](http://gallery.kissyui.com/tmpl/1.0/demo/index.html)
+* 作者：yujiang（禺疆）
+* demo：[http://gallery.kissyui.com/tmpl/1.0.1/demo/index.html](http://gallery.kissyui.com/tmpl/1.0.1/demo/index.html)
 
 ## 概要简介
 Tmpl是一个前端模板引擎，但不仅仅如此，它是一个动态反转模板引擎。
