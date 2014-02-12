@@ -1,14 +1,8 @@
-## tmpl
-
-* 版本：1.0.1
-* 教程：[http://gallery.kissyui.com/tmpl/1.0/guide/index.html](http://gallery.kissyui.com/tmpl/1.0/guide/index.html)
-* demo：[http://gallery.kissyui.com/tmpl/1.0/demo/index.html](http://gallery.kissyui.com/tmpl/1.0/demo/index.html)
-
 ## 综述
 
 Tmpl是一个前端模板引擎，但不仅仅如此。
 
-* 版本：1.0
+* 版本：1.0.1
 * 作者：yujiang
 * demo：[http://gallery.kissyui.com/tmpl/1.0/demo/index.html](http://gallery.kissyui.com/tmpl/1.0/demo/index.html)
 
@@ -130,6 +124,3 @@ Tmpl是一个前端模板引擎，但不仅仅如此，它是一个动态反转�
 * 读取了undefined的错误（这个应该会有编译报错）
 * 多写了;号
 * 写了中文字符
-
-
-

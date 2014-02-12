@@ -1,12 +1,12 @@
 {
     "name": "tmpl",
     "comName":"Tmpl",
-    "version": "1.0",
+    "version": "1.0.1",
     "desc": "动态反转模板引擎",
     "tag":"template,模板,模板引擎",
     "githubName":"nikogu",
     "author": {
-        "name": "yujiang",
+        "name": "yujiang(禺疆)",
         "email": "zhihao.gzh@alibaba-inc.com",
         "page": ""
     },
